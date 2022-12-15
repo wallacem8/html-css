@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.871);
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.video {
+    display: flex;
+    margin-top: 100px;
+    flex-direction: column;
+    margin-left: 32%;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+}
+
+div p {
+    text-align: center;
+}
+
+.return {
+    padding-top: 30px;
+    padding-left: 48%;
+}
+
+a {
+    color: white;
+}
